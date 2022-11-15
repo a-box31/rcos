@@ -1,0 +1,4 @@
+Created a wire frame in figma to format a webpage. This design tool will be
+imported into web flow which can be used to make custom front end webpages.
+This format (with different images- not stock images) will be used in the 
+Selmer-Bot Official Webpage. 
